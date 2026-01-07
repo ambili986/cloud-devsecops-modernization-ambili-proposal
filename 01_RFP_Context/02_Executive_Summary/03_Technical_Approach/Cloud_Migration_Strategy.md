@@ -3,7 +3,7 @@
 ### Overview
 AstraNova proposes a structured, phased migration approach to transition NPSA applications from on-premise environments to the cloud while maintaining service continuity.
 
-The migration strategy was developed in collaboration with **Rajesh Iyer (Lead Cloud Architect)** and aligns with NPSA’s operational priorities and risk tolerance.
+The migration strategy was developed in collaboration with Rajesh Iyer (Lead Cloud Architect) and aligns with NPSA’s operational priorities and risk tolerance.
 
 ### Migration Phases
 1. **Discovery & Assessment**
